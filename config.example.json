@@ -1,0 +1,7 @@
+{
+    "ApiUrl": "https://your-immich-server-url/api",
+    "ApiKey": "your-immich-api-key",
+    "AlbumId": "your-album-id",
+    "LocalFolder": "C:\\Path\\To\\Your\\Destination\\Folder",
+    "IntervalMinutes": 60
+}
