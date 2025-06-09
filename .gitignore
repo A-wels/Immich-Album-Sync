@@ -1,0 +1,50 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# PowerShell history
+*.pshistory
+
+# VS Code settings
+.vscode/
+
+# Node modules (if any Node.js scripts are used)
+node_modules/
+
+# Python cache (if any Python scripts are used)
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Local configuration
+*config.json
+
+# Sync history
+sync-history.json
+
+# Task scheduler backups or exports
+*.xml
+
+# Miscellaneous
+.DS_Store
+*.bak
+*.tmp
+# Rust build
+target/
+
+# Ignore executables and debug files
+*.exe
+*.pdb
+*.d
+*.dll
+*.lib
+*.exp
+
+# Ignore incremental build
+**/incremental/

@@ -1,0 +1,7 @@
+{
+    "api_url": "https://your-immich-server-url/api",
+    "api_key": "your-immich-api-key",
+    "album_id": "your-album-id",
+    "local_folder": "C:\\Path\\To\\Your\\Destination\\Folder",
+    "background_interval_minutes": 60
+}
